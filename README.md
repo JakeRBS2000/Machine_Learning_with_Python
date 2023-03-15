@@ -2,7 +2,7 @@
 
 (Coursera IBM Data Science Professional Certificate).
 
-Regression (ML0101EN;_Reg_Simple_Linear_Regression and Reg_Multiple_Linear_Regression) = A brief intro to regression. Learning about Linear, Non-linear, Simple and Multiple regression, and their applications. Applying these methods on two different datasets, and also, how to evaluate your regression model, and calculate its accuracy.
+Regression (ML0101EN; Reg_Simple_Linear_Regression and Reg_Multiple_Linear_Regression) = A brief intro to regression. Learning about Linear, Non-linear, Simple and Multiple regression, and their applications. Applying these methods on two different datasets, and also, how to evaluate your regression model, and calculate its accuracy.
 
 - Demonstrate understanding of the basics of regression.
 - Demonstrate understanding of simple linear regression.
@@ -11,7 +11,7 @@ Regression (ML0101EN;_Reg_Simple_Linear_Regression and Reg_Multiple_Linear_Regre
 - Demonstrate understanding of multiple linear regression.
 - Apply Simple and Multiple, Linear Regression on a dataset for estimation.
 
-Classification (ML0101EN;Clas_K_Nearest, Clas_Decision_Trees and Regression_Trees) = Learning about classification technique. Practicing with different classification algorithms, such as KNN, Decision Trees, Logistic Regression and SVM. Also, about pros and cons of each method, and different classification accuracy metrics.
+Classification (ML0101EN; Clas_K_Nearest, Clas_Decision_Trees and Regression_Trees) = Learning about classification technique. Practicing with different classification algorithms, such as KNN, Decision Trees, Logistic Regression and SVM. Also, about pros and cons of each method, and different classification accuracy metrics.
 
 - Compare and contrast the characteristics of different Classification methods.
 - Explain how to apply the K Nearest Neighbors algorithm.
