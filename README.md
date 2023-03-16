@@ -22,7 +22,7 @@ Classification (ML0101EN; Clas_K_Nearest, Clas_Decision_Trees and Regression_Tre
 - Describe how regression trees are built and how to use them.
 
 
-Linear Classification (ML0101EN; ).
+Linear Classification (ML0101EN; Clas_Logistic_Reg, Clas_SVM and Multi-Class_Clasification).
 
 - Compare and contrast the characteristics of different Classification methods.
 - Explain the capabilities of logistic regression.
@@ -33,7 +33,7 @@ Linear Classification (ML0101EN; ).
 - Explain how multi-class prediction works.
 - Apply Classification algorithms on various datasets to solve real world problems.
 
-Clustering (ML0101EN; ) = Learning about clustering specifically k-means clustering. How the k-means clustering algorithm works and how to use k-means clustering for customer segmentation.
+Clustering (ML0101EN; Clas_K_Means) = Learning about clustering specifically k-means clustering. How the k-means clustering algorithm works and how to use k-means clustering for customer segmentation.
 
 - Describe the K-Means Clustering technique.
 - Describe accuracy concerns for the K-Means Clustering technique.
